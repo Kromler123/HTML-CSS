@@ -1,0 +1,50 @@
+body { 
+      margin: 0;
+      background: 
+      url("../img/1654352274_small[1].jpg")no-repeat;
+
+      font-family: Tahoma;
+      line-height: 1.5;
+      font-style: 18px;
+}
+ .card {
+    width: 500px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: antiquewhite;
+    box-shadow:  7px 10px rgb(32, 3, 3);
+    border-radius: 10px; 
+    
+ }
+ .card-photo {
+    display: block;   
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 44%;   
+ }
+ .card-title {
+       font-size: 24px;
+       text-align: center;
+       color: #336675; 
+ }
+
+ .card-text{
+       font-size: 16px;
+       align-self:
+       auto;
+ }
+
+ .card-subtitle {
+       font-size: 20px;
+       color: #687932;
+ }
+ .card-list{
+       padding-left: 0;
+       list-style-position:
+       inside;
+       font-size: 14px; 
+       
+
+ }
+
